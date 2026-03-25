@@ -1,0 +1,1 @@
+# vaja14_uart_putty_nucleo
